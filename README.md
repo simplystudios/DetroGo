@@ -43,7 +43,23 @@
 
 ### Live Preview
 
- https://github.com/user-attachments/assets/8d9e6e48-3255-4460-82cd-2a50c8b2c863
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="width: 50%; border: none; padding: 5px;">
+      <p align="center"><b>Dark Mode</b></p>
+      <video src="https://github.com/user-attachments/assets/8d9e6e48-3255-4460-82cd-2a50c8b2c863" width="100%" controls muted autoplay loop style="border-radius: 10px;">
+      </video>
+    </td>
+    <td style="width: 50%; border: none; padding: 5px;">
+      <p align="center"><b>Light Mode</b></p>
+      <video src="https://github.com/user-attachments/assets/62c2f7e6-e54a-40de-ad56-573d0e4c78b7" width="100%" controls muted autoplay loop style="border-radius: 10px;">
+      </video>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
