@@ -68,6 +68,11 @@
    ```bash
    git clone [https://github.com/simplystudios/DetroGo.git](https://github.com/simplystudios/DetroGo.git)
 
+## 🤝 Contributors
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=simplystudios/DetroGo"/>
+</a>
+
 
 ### Free & Open Source Under MIT Licence
 ##### Made with ❤️ in Delhi
