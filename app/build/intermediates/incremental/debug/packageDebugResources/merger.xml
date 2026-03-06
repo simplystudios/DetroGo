@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/punchoneman/Downloads/DetroGo/app/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/punchoneman/Downloads/DetroGo/app/src/main/res"><file name="ic_launcher" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="highestqmap" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/highestqmap.png" qualifiers="xhdpi-v4" type="drawable"/><file name="detextred" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/detextred.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_commute_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_commute_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="commitright" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/commitright.png" qualifiers="xhdpi-v4" type="drawable"/><file name="asmmul" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/asmmul.png" qualifiers="xhdpi-v4" type="drawable"/><file name="logomain" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/logomain.png" qualifiers="xhdpi-v4" type="drawable"/><file name="arwdown" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/arwdown.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="detro" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/detro.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_transferlg" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_transferlg.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="dakrwrlog" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/dakrwrlog.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_directions_subway_rounddrk" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_directions_subway_rounddrk.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_multiple_stop_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_multiple_stop_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="morocco" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/morocco.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_commit_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_commit_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_directions_subway_twotone" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_directions_subway_twotone.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_arrow_forward_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_arrow_forward_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="arwup" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/arwup.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_bookticks" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_bookticks.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_home_outline" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_home_outline.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_help_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_help_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="logonobg" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/logonobg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_railway_alert_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_railway_alert_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_directions_subway_outline" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_directions_subway_outline.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_home_twotone" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_home_twotone.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_number" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_number.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="arwleft" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/arwleft.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="metror" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/metror.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_house_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_house_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_settings" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_settings.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_transfer" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_transfer.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="detrogray" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/detrogray.png" qualifiers="xhdpi-v4" type="drawable"/><file name="map" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/map.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_campaign_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_campaign_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_subway_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_subway_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_commit_round_drk" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_commit_round_drk.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_confirmation_number_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_confirmation_number_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="arwright" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/arwright.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_opensource" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_opensource.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="metro" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/metro.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_directions_subway_round" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_directions_subway_round.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_station" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_station.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="detextgrey" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/detextgrey.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_image" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/default_image.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_transferwhite" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_transferwhite.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="biggerlogo" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/biggerlogo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_mapround" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_mapround.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_map" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/icon_map.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="detrow" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/detrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="test" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable-xhdpi/test.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_foreground" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable/ic_foreground.png" qualifiers="" type="drawable"/><file name="ic_background" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/drawable/ic_background.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+		<item name="android:statusBarColor">@android:color/transparent</item>
+		<item name="android:navigationBarColor">@android:color/transparent</item>
+		<item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+	</style><style name="AppTheme.FullScreen" parent="AppTheme">
+		<item name="android:windowFullscreen">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+	</style><style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.Material3"/><style name="AppTheme.PopupOverlay" parent="ThemeOverlay.Material3"/><style name="AppTheme.DebugActivity" parent="AppTheme">
+		<item name="windowActionBar">true</item>
+		<item name="windowNoTitle">false</item>
+	</style></file><file path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name" translatable="false">DetroGo</string></file><file path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/values/arrays.xml" qualifiers=""><string-array name="stations_list">
+        <item>Dilshad Garden</item>
+        <item>Jhilmil</item>
+        <item>Mansrover park</item>
+        <item>Shahdara</item>
+        <item>Welcome</item>
+        <item>Seelam Pur</item>
+        <item>Shastri Park</item>
+        <item>Kashmere Gate</item>
+        <item>Tis Hazari</item>
+        <item>Pul Bangash</item>
+        <item>Pratap Nagar</item>
+        <item>Shastri Nagar</item>
+        <item>Inderlok</item>
+        <item>Kanhaiya Nagar</item>
+        <item>Keshav Puram</item>
+        <item>Netaji Subash Place</item>
+        <item>Kohat Enclave</item>
+        <item>Pitampura</item>
+        <item>Rohini East</item>
+        <item>Rohini West</item>
+        <item>Rithala</item>
+        <item>Mundka</item>
+        <item>Rajdhani Park</item>
+        <item>Nangloi Railway Station</item>
+        <item>Nangloi</item>
+        <item>Maharaja Surajmal Stadium</item>
+        <item>Udyog Nagar</item>
+        <item>Peera Garhi</item>
+        <item>Paschim Vihar (West)</item>
+        <item>Paschim Vihar (East)</item>
+        <item>Madipur</item>
+        <item>Shivaji Park</item>
+        <item>Punjabi Bagh</item>
+        <item>Ashok Park Main</item>
+        <item>Satguru Ram Singh Marg</item>
+        <item>Samaypur Badli</item>
+        <item>Rohini Sector 18-19</item>
+        <item>Haiderpur Badli Mor</item>
+        <item>Jahangirpuri</item>
+        <item>Adarsh Nagar</item>
+        <item>Azadpur</item>
+        <item>Model Town</item>
+        <item>Guru Tegh Bahadur Nagar</item>
+        <item>Vishwavidyalaya</item>
+        <item>Vidhan Sabha</item>
+        <item>Civil Lines</item>
+        <item>Chandni Chowk</item>
+        <item>Chawri Bazar</item>
+        <item>New Delhi</item>
+        <item>Rajiv Chowk</item>
+        <item>Patel Chowk</item>
+        <item>Central Secretariat</item>
+        <item>Udyog Bhawan</item>
+        <item>Lok Kalyan Marg</item>
+        <item>Jorbagh</item>
+        <item>Dilli Haat - INA</item>
+        <item>AIIMS</item>
+        <item>Green Park</item>
+        <item>Hauz Khas</item>
+        <item>Malviya Nagar</item>
+        <item>Saket</item>
+        <item>Qutab Minar</item>
+        <item>Chhattarpur</item>
+        <item>Sultanpur</item>
+        <item>Ghitorni</item>
+        <item>Arjan Garh</item>
+        <item>Gurudronacharya</item>
+        <item>Sikanderpur</item>
+        <item>MG Road</item>
+        <item>IFFCO Chowk</item>
+        <item>Huda City Centre</item>
+        <item>Vaishali</item>
+        <item>Kaushambi</item>
+        <item>Anand Vihar</item>
+        <item>Karkarduma</item>
+        <item>Preet Vihar</item>
+        <item>Nirman Vihar</item>
+        <item>Laxmi Nagar</item>
+        <item>Noida City Centre</item>
+        <item>Golf Course</item>
+        <item>Botanical Garden</item>
+        <item>Noida Sec -18</item>
+        <item>Noida Sec -16</item>
+        <item>Noida Sec -15</item>
+        <item>New Ashok Nagar</item>
+        <item>Mayur Vihar Ext</item>
+        <item>Mayur Vihar-I</item>
+        <item>Akshardham</item>
+        <item>Yamuna Bank</item>
+        <item>Indraprastha</item>
+        <item>Supreme Court</item>
+        <item>Mandi House</item>
+        <item>Barakhamba</item>
+        <item>RK Ashram Marg</item>
+        <item>Jhandewalan</item>
+        <item>Karol Bagh</item>
+        <item>Rajendra Place</item>
+        <item>Patel Nagar</item>
+        <item>Shadipur</item>
+        <item>Kirti Nagar</item>
+        <item>Moti Nagar</item>
+        <item>Ramesh Nagar</item>
+        <item>Rajouri Garden</item>
+        <item>Tagore Garden</item>
+        <item>Subash Nagar</item>
+        <item>Tilak Nagar</item>
+        <item>Janak Puri East</item>
+        <item>Janak Puri West</item>
+        <item>Uttam Nagar East</item>
+        <item>Uttam Nagar West</item>
+        <item>Nawada</item>
+        <item>Dwarka Mor</item>
+        <item>Dwarka</item>
+        <item>Dwarka Sector - 14</item>
+        <item>Dwarka Sector - 13</item>
+        <item>Dwarka Sector - 12</item>
+        <item>Dwarka Sector - 11</item>
+        <item>Dwarka Sector - 10</item>
+        <item>Dwarka Sector - 9</item>
+        <item>Dwarka Sector - 8</item>
+        <item>Dwarka Sector - 21</item>
+        <item>ITO</item>
+        <item>Janpath</item>
+        <item>Khan Market</item>
+        <item>Jawahar Lal Nehru Stadium</item>
+        <item>Jangpura</item>
+        <item>Lajpat Nagar</item>
+        <item>Moolchand</item>
+        <item>Kailash Colony</item>
+        <item>Nehru Place</item>
+        <item>Kalkaji Mandir</item>
+        <item>Govind Puri</item>
+        <item>Harkesh Nagar Okhla</item>
+        <item>Jasola-Apollo</item>
+        <item>Sarita Vihar</item>
+        <item>Mohan Estate</item>
+        <item>Tughlakabad Station</item>
+        <item>Badarpur Border</item>
+        <item>Sarai</item>
+        <item>NHPC Chowk</item>
+        <item>Mewala Maharajpur</item>
+        <item>Sector-28</item>
+        <item>Badkal Mor</item>
+        <item>Old Faridabad</item>
+        <item>Neelam Chowk Ajronda</item>
+        <item>Bata Chowk</item>
+        <item>Escorts Mujesar</item>
+        <item>Sikanderpur (Rapid Metro)</item>
+        <item>Phase 2 (Rapid Metro)</item>
+        <item>Belvedere Towers (Rapid Metro)</item>
+        <item>Cyber City (Rapid Metro)</item>
+        <item>Moulsari Avenue (Rapid Metro)</item>
+        <item>Phase 3 (Rapid Metro)</item>
+        <item>IGI Airport</item>
+        <item>Delhi Aerocity</item>
+        <item>Dhaula Kuan</item>
+        <item>Shivaji Stadium</item>
+        <item>Delhi Gate</item>
+        <item>Jama Masjid</item>
+        <item>Lal Quila</item>
+        <item>Okhla Bird Sanctuary</item>
+        <item>Kalindi Kunj</item>
+        <item>Jasola Vihar Shaheen Bagh</item>
+        <item>Okhla Vihar</item>
+        <item>Jamia Millia Islamia</item>
+        <item>Sukhdev Vihar</item>
+        <item>Okhla NSIC</item>
+        <item>Phase-I (Rapid Metro)</item>
+        <item>Sector 42-43 (Rapid Metro)</item>
+        <item>Sector 53-54 (Rapid Metro)</item>
+        <item>Sector 54 Chowk (Rapid Metro)</item>
+        <item>Sector 55-56 (Rapid Metro)</item>
+        <item>Majlis Park</item>
+        <item>Shalimar Bagh</item>
+        <item>Shakurpur</item>
+        <item>Punjabi Bagh West</item>
+        <item>ESI Basai Darapur</item>
+        <item>Mayapuri</item>
+        <item>Naraina Vihar</item>
+        <item>Delhi Cantt.</item>
+        <item>Durgabai Deshmukh South Campus</item>
+        <item>Nehru Enclave</item>
+        <item>Greater Kailash</item>
+        <item>Chirag Delhi</item>
+        <item>Panchsheel Park</item>
+        <item>IIT</item>
+        <item>RK Puram</item>
+        <item>Munirka</item>
+        <item>Vasant Vihar</item>
+        <item>Shankar Vihar</item>
+        <item>Terminal 1- IGI Airport</item>
+        <item>Sadar Bazar Contonment</item>
+        <item>Palam</item>
+        <item>Dashrath Puri</item>
+        <item>Dabri Mor - Janakpuri South</item>
+        <item>Mundka Industrial Area (M.I.A)</item>
+        <item>Ghevra Metro station</item>
+        <item>Tikri Kalan</item>
+        <item>Tikri Border</item>
+        <item>Pandit Shree Ram Sharma</item>
+        <item>Bahadurgarh City</item>
+        <item>Brigadier Hoshiyar Singh</item>
+        <item>Sir Vishweshwaraiah Moti Bagh</item>
+        <item>Bhikaji Cama Place</item>
+        <item>Sarojini Nagar</item>
+        <item>South Extension</item>
+        <item>Trilokpuri Sanjay Lake</item>
+        <item>East Vinod Nagar - Mayur Vihar-II</item>
+        <item>Mandawali - West Vinod Nagar</item>
+        <item>IP Extension</item>
+        <item>Karkarduma Court</item>
+        <item>Krishna Nagar</item>
+        <item>East Azad Nagar</item>
+        <item>Jafrabad</item>
+        <item>Maujpur - Babarpur</item>
+        <item>Gokulpuri</item>
+        <item>Johri Enclave</item>
+        <item>Shiv Vihar</item>
+        <item>Sant Surdas (Sihi)</item>
+        <item>Raja Nahar Singh</item>
+        <item>Vinobapuri</item>
+        <item>Ashram</item>
+        <item>Sarai Kale Khan - Nizamuddin</item>
+        <item>Mayur Vihar Pocket 1</item>
+        <item>Shaheed Sthal (New Bus Adda)</item>
+        <item>Hindon River</item>
+        <item>Arthala</item>
+        <item>Mohan Nagar</item>
+        <item>Shyam Park</item>
+        <item>Major Mohit Sharma Rajender Nagar</item>
+        <item>Raj Bagh</item>
+        <item>Shaheed Nagar</item>
+        <item>Noida Sec-34</item>
+        <item>Noida Sec-52</item>
+        <item>Noida Sec-61</item>
+        <item>Noida Sec-59</item>
+        <item>Noida Sec-62</item>
+        <item>Noida Electronic City</item>
+        <item>Nangli</item>
+        <item>Najafgarh</item>
+        <item>Dhansa Bus Stand</item>
+        <item>Noida Sector 51</item>
+        <item>Noida Sector 50</item>
+        <item>Noida Sector 76</item>
+        <item>Noida Sector 101</item>
+        <item>Noida Sector 81</item>
+        <item>NSEZ</item>
+        <item>Noida Sector 83</item>
+        <item>Noida Sector 137</item>
+        <item>Noida Sector 142</item>
+        <item>Noida Sector 143</item>
+        <item>Noida Sector 144</item>
+        <item>Noida Sector 145</item>
+        <item>Noida Sector 146</item>
+        <item>Noida Sector 147</item>
+        <item>Noida Sector 148</item>
+        <item>Knowledge Park</item>
+        <item>Pari Chowk</item>
+        <item>Alpha 1</item>
+        <item>Delta 1</item>
+        <item>GNIDA Office</item>
+        <item>Depot Station</item>
+    </string-array></file><file path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#000000</color><color name="colorPrimaryDark">#607D8B</color><color name="colorAccent">#B71C1C</color><color name="colorControlHighlight">#263238</color><color name="colorControlNormal">#888888</color></file><file name="home" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/home.xml" qualifiers="" type="layout"/><file name="main" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="about" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/about.xml" qualifiers="" type="layout"/><file name="ggt" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/ggt.xml" qualifiers="" type="layout"/><file name="metroroutepg" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/metroroutepg.xml" qualifiers="" type="layout"/><file name="fraghome_fragment" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/fraghome_fragment.xml" qualifiers="" type="layout"/><file name="gpt" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/gpt.xml" qualifiers="" type="layout"/><file name="fraglines_fragment" path="/home/punchoneman/Downloads/DetroGo/app/src/main/res/layout/fraglines_fragment.xml" qualifiers="" type="layout"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/punchoneman/Downloads/DetroGo/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/punchoneman/Downloads/DetroGo/app/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/punchoneman/Downloads/DetroGo/app/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/punchoneman/Downloads/DetroGo/app/build/generated/res/resValues/debug"/></dataSet><mergedItems/></merger>

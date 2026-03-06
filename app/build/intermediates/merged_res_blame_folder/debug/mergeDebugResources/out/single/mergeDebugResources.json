@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_opensource.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_opensource.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_detrogray.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/detrogray.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_main.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/main.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_home.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/home.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_arwdown.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/arwdown.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_commit_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_commit_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_directions_subway_twotone.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_directions_subway_twotone.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_metroroutepg.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/metroroutepg.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_detro.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/detro.png"
+    },
+    {
+        "merged": "com.anshwadhwa.detro.go.app-debug-34:/layout_metroroutepg.xml.flat",
+        "source": "com.anshwadhwa.detro.go.app-main-36:/layout/metroroutepg.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_home_twotone.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_home_twotone.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_logonobg.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/logonobg.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_metro.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/metro.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable_ic_foreground.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable/ic_foreground.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_commute_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_commute_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_house_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_house_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_bookticks.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_bookticks.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_help_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_help_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_home_outline.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_home_outline.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_map.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_map.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_directions_subway_outline.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_directions_subway_outline.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_arwleft.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/arwleft.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_dakrwrlog.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/dakrwrlog.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_logomain.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/logomain.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_morocco.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/morocco.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_commit_round_drk.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_commit_round_drk.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_arwup.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/arwup.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_arrow_forward_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_arrow_forward_round.xml"
+    },
+    {
+        "merged": "com.anshwadhwa.detro.go.app-debug-34:/layout_fraghome_fragment.xml.flat",
+        "source": "com.anshwadhwa.detro.go.app-main-36:/layout/fraghome_fragment.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_transferlg.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_transferlg.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_test.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/test.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_transfer.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_transfer.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_ggt.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/ggt.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_fraghome_fragment.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/fraghome_fragment.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_map.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/map.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_metror.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/metror.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_asmmul.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/asmmul.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_detrow.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/detrow.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_highestqmap.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/highestqmap.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_confirmation_number_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_confirmation_number_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_commitright.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/commitright.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_about.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/about.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_detextred.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/detextred.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_directions_subway_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_directions_subway_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_number.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_number.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_detextgrey.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/detextgrey.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_multiple_stop_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_multiple_stop_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_fraglines_fragment.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/fraglines_fragment.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_campaign_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_campaign_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_subway_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_subway_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_default_image.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_arwright.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/arwright.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_railway_alert_round.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_railway_alert_round.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_directions_subway_rounddrk.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_directions_subway_rounddrk.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_settings.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_settings.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable_ic_background.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable/ic_background.png"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_transferwhite.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_transferwhite.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_mapround.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_mapround.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/layout_gpt.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/layout/gpt.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_icon_station.xml.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/icon_station.xml"
+    },
+    {
+        "merged": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-debug-34:/drawable-xhdpi_biggerlogo.png.flat",
+        "source": "/home/punchoneman/.gradle/daemon/9.0-milestone-1/com.anshwadhwa.detro.go.app-main-36:/drawable-xhdpi/biggerlogo.png"
+    }
+]

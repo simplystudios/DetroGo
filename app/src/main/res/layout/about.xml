@@ -1,0 +1,94 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="vertical">
+		<androidx.cardview.widget.CardView
+			android:id="@+id/cardview1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:contentPadding="8dp"
+			app:cardElevation="2dp"
+			app:cardCornerRadius="20dp">
+			<LinearLayout
+				android:id="@+id/linear3"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical">
+				<LinearLayout
+					android:id="@+id/linear4"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:orientation="horizontal">
+					<ImageView
+						android:id="@+id/imageview1"
+						android:layout_width="wrap_content"
+						android:layout_height="100dp"
+						android:src="@drawable/dakrwrlog"
+						android:scaleType="fitCenter" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear5"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:orientation="horizontal">
+					<TextView
+						android:id="@+id/textview1"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:text="Beta 0.2A"
+						android:textSize="12sp" />
+					<TextView
+						android:id="@+id/textview4"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:text="•"
+						android:textSize="12sp" />
+					<TextView
+						android:id="@+id/textview3"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:text="Open Source Contributions"
+						android:textSize="12sp" />
+				</LinearLayout>
+			</LinearLayout>
+		</androidx.cardview.widget.CardView>
+		<LinearLayout
+			android:id="@+id/linear6"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:orientation="horizontal" />
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:orientation="horizontal" />
+		<TextView
+			android:id="@+id/textview2"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:text="Open Source Under GPL 3"
+			android:textSize="12sp" />
+	</LinearLayout>
+</LinearLayout>

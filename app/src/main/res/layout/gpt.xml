@@ -1,0 +1,56 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<com.google.android.material.card.MaterialCardView
+		android:id="@+id/linear5"
+		android:padding="10dp"
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		style="@style/Widget.Material3.CardView.Elevated"
+		app:cardCornerRadius="28dp"
+		app:cardUseCompatPadding="false">
+		<LinearLayout
+			android:id="@+id/linear3"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="10dp"
+			android:gravity="center_vertical"
+			android:orientation="horizontal">
+			<ImageView
+				android:id="@+id/imageview1"
+				android:focusable="false"
+				android:layout_width="30dp"
+				android:layout_height="match_parent"
+				android:src="@drawable/icon_commit_round_drk"
+				android:scaleType="fitCenter"
+				android:rotation="90" />
+			<TextView
+				android:id="@+id/textview1"
+				android:focusable="false"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="TextView"
+				android:textSize="16sp"
+				android:textColor="?colorOnSurfaceVariant" />
+			<LinearLayout
+				android:id="@+id/linear7"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="horizontal"
+				android:layout_weight="1" />
+		</LinearLayout>
+	</com.google.android.material.card.MaterialCardView>
+	<LinearLayout
+		android:id="@+id/linear8"
+		android:layout_width="match_parent"
+		android:layout_height="4dp"
+		android:padding="8dp"
+		android:orientation="horizontal" />
+</LinearLayout>

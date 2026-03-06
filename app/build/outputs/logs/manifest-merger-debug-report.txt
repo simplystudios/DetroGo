@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:2:1-61:12
+MERGED from [com.google.android.material:material:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/f4253d97d660fcae381a959f80ec5f53/transformed/material-1.13.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/9264779931b6aa3f8d35f6158f8a37a1/transformed/jetified-appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/ba0ed6d366b4bbba6cc6ec61be763c28/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/90205cc5750fc2dd98760672ea4b2b67/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/0ef23b559ddf157ce79b6e1d14c6d30f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/50004b7bd42881d8a62ca7b4652ceaa9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/1104f38eb9bb99db05db4df2ce6c713d/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/bdca5b7c3e79626f00f064f30245945f/transformed/jetified-activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b4004215222dd86d4b07de788b229208/transformed/jetified-graphics-shapes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e938dff1f38c6746be4446cc4ad88ff4/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4a83126d91d45796fa3463fb07b14a63/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.loader:loader:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/5d3ce35b224491bf22642e385b624548/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/3cec10f0f803e7e127effc31747ac521/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e9e873ab27e822d58cd6724bc165ae98/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/647017aacb0df735bb107957cbddd758/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/49f629a5a7b09a940e25cdf2e3a2803e/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/df13ab6a3163177bb010c950fddcfb74/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/2b519c810e3246b38496372edae8011c/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/8ffc73c867eab82d9d39ae9702ba83fe/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/6e8683548153a32b28649e994cdb36f4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/57bd3bf78f145bef8fa13e5dabecf5be/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b0c47373e301f5773b8b9e23dd4c510e/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/cd601ec764664fdd983cc6db521825e9/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/cdc8cfadea036ed284104bb45b5fdfee/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e3327829ab9c565889ef2edbf7f0182f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/85680dc059ab7571e729fe6c9dbd82a2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/881b43f7db2a1575603906545b380a0a/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/121bbb69caee58edb8ec0ec5c31e5d4d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/19ba462395327402f05a4e4ceca242fb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/66df1d04d1a03f9143d74b248013d1ae/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/c5ddea77c014c7afc47a57b08fefcb36/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/92d07af9107a5df7e5207eebe61c1525/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/286a143244ae710e9b827ae154230b4f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/6da4a09c2f36d60a3f241d0f473f824a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/fdcc4c27b139351efa16fae0c9a3f48e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/8560310d793ec6f71a0308d9cebc30ec/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/c88c2bf16497a3cf3cbc86d283cf35e3/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:4:2-35
+		INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:3:2-60
+uses-permission#android.permission.INTERNET
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:5:2-64
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:6:2-76
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:6:19-73
+application
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:7:2-60:16
+INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:7:2-60:16
+MERGED from [com.google.android.material:material:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/f4253d97d660fcae381a959f80ec5f53/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/f4253d97d660fcae381a959f80ec5f53/transformed/material-1.13.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/ba0ed6d366b4bbba6cc6ec61be763c28/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/ba0ed6d366b4bbba6cc6ec61be763c28/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/0ef23b559ddf157ce79b6e1d14c6d30f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/0ef23b559ddf157ce79b6e1d14c6d30f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/66df1d04d1a03f9143d74b248013d1ae/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/66df1d04d1a03f9143d74b248013d1ae/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/92d07af9107a5df7e5207eebe61c1525/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/92d07af9107a5df7e5207eebe61c1525/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/fdcc4c27b139351efa16fae0c9a3f48e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/fdcc4c27b139351efa16fae0c9a3f48e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:11:3-46
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:10:3-35
+	android:icon
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:9:3-37
+	android:allowBackup
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:8:3-29
+	android:theme
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:13:3-34
+	android:usesCleartextTraffic
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:12:3-38
+activity#com.anshwadhwa.detro.go.MainActivity
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:14:3-25:14
+	android:screenOrientation
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:19:4-40
+	android:hardwareAccelerated
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:17:4-38
+	android:exported
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:20:4-27
+	android:supportsPictureInPicture
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:18:4-43
+	android:configChanges
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:16:4-97
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:15:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:21:4-24:20
+action#android.intent.action.MAIN
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:22:5-57
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:23:15-62
+activity#com.anshwadhwa.detro.go.HomeActivity
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:26:3-31:43
+	android:screenOrientation
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:31:4-40
+	android:hardwareAccelerated
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:29:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:30:4-43
+	android:configChanges
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:28:4-97
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:27:4-32
+activity#com.anshwadhwa.detro.go.MetroroutepgActivity
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:32:3-36:46
+	android:hardwareAccelerated
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:35:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:36:4-43
+	android:configChanges
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:34:4-97
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:33:4-40
+activity#com.anshwadhwa.detro.go.AboutActivity
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:37:3-41:46
+	android:hardwareAccelerated
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:40:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:41:4-43
+	android:configChanges
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:39:4-97
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:38:4-33
+activity#com.anshwadhwa.detro.go.DebugActivity
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:42:3-45:52
+	android:screenOrientation
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:44:4-40
+	android:theme
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:45:4-49
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:43:4-33
+provider#androidx.startup.InitializationProvider
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:46:3-56:14
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/92d07af9107a5df7e5207eebe61c1525/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/92d07af9107a5df7e5207eebe61c1525/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	android:authorities
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:48:4-66
+	android:exported
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:49:4-28
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:47:4-58
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:50:4-52:40
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:52:5-37
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:51:5-66
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:53:4-55:40
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:55:5-37
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:54:5-63
+uses-library#org.apache.http.legacy
+ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:57:3-59:31
+	android:required
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:59:4-28
+	android:name
+		ADDED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:58:4-41
+uses-sdk
+INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/f4253d97d660fcae381a959f80ec5f53/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/f4253d97d660fcae381a959f80ec5f53/transformed/material-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/9264779931b6aa3f8d35f6158f8a37a1/transformed/jetified-appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/9264779931b6aa3f8d35f6158f8a37a1/transformed/jetified-appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/ba0ed6d366b4bbba6cc6ec61be763c28/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/ba0ed6d366b4bbba6cc6ec61be763c28/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/90205cc5750fc2dd98760672ea4b2b67/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/90205cc5750fc2dd98760672ea4b2b67/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/0ef23b559ddf157ce79b6e1d14c6d30f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/0ef23b559ddf157ce79b6e1d14c6d30f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/50004b7bd42881d8a62ca7b4652ceaa9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/50004b7bd42881d8a62ca7b4652ceaa9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/1104f38eb9bb99db05db4df2ce6c713d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/1104f38eb9bb99db05db4df2ce6c713d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/bdca5b7c3e79626f00f064f30245945f/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/bdca5b7c3e79626f00f064f30245945f/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b4004215222dd86d4b07de788b229208/transformed/jetified-graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b4004215222dd86d4b07de788b229208/transformed/jetified-graphics-shapes-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e938dff1f38c6746be4446cc4ad88ff4/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e938dff1f38c6746be4446cc4ad88ff4/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4a83126d91d45796fa3463fb07b14a63/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4a83126d91d45796fa3463fb07b14a63/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/51e5a006dbd5731a6867419a3cff6e3a/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/5d3ce35b224491bf22642e385b624548/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/5d3ce35b224491bf22642e385b624548/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/3cec10f0f803e7e127effc31747ac521/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/3cec10f0f803e7e127effc31747ac521/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e9e873ab27e822d58cd6724bc165ae98/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e9e873ab27e822d58cd6724bc165ae98/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b86cd357e0ad281ab19501b91c50ea00/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/647017aacb0df735bb107957cbddd758/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/647017aacb0df735bb107957cbddd758/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/49f629a5a7b09a940e25cdf2e3a2803e/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/49f629a5a7b09a940e25cdf2e3a2803e/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/df13ab6a3163177bb010c950fddcfb74/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/df13ab6a3163177bb010c950fddcfb74/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/2b519c810e3246b38496372edae8011c/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/2b519c810e3246b38496372edae8011c/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/8ffc73c867eab82d9d39ae9702ba83fe/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/8ffc73c867eab82d9d39ae9702ba83fe/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/6e8683548153a32b28649e994cdb36f4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/6e8683548153a32b28649e994cdb36f4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/57bd3bf78f145bef8fa13e5dabecf5be/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/57bd3bf78f145bef8fa13e5dabecf5be/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b0c47373e301f5773b8b9e23dd4c510e/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/b0c47373e301f5773b8b9e23dd4c510e/transformed/dynamicanimation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/cd601ec764664fdd983cc6db521825e9/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/cd601ec764664fdd983cc6db521825e9/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/cdc8cfadea036ed284104bb45b5fdfee/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/cdc8cfadea036ed284104bb45b5fdfee/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e3327829ab9c565889ef2edbf7f0182f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/e3327829ab9c565889ef2edbf7f0182f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/85680dc059ab7571e729fe6c9dbd82a2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/85680dc059ab7571e729fe6c9dbd82a2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/881b43f7db2a1575603906545b380a0a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/881b43f7db2a1575603906545b380a0a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/121bbb69caee58edb8ec0ec5c31e5d4d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/121bbb69caee58edb8ec0ec5c31e5d4d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/19ba462395327402f05a4e4ceca242fb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/19ba462395327402f05a4e4ceca242fb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/66df1d04d1a03f9143d74b248013d1ae/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/66df1d04d1a03f9143d74b248013d1ae/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/c5ddea77c014c7afc47a57b08fefcb36/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/c5ddea77c014c7afc47a57b08fefcb36/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/92d07af9107a5df7e5207eebe61c1525/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/92d07af9107a5df7e5207eebe61c1525/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/286a143244ae710e9b827ae154230b4f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/286a143244ae710e9b827ae154230b4f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/6da4a09c2f36d60a3f241d0f473f824a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/6da4a09c2f36d60a3f241d0f473f824a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/fdcc4c27b139351efa16fae0c9a3f48e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/fdcc4c27b139351efa16fae0c9a3f48e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/8560310d793ec6f71a0308d9cebc30ec/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/8560310d793ec6f71a0308d9cebc30ec/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/c88c2bf16497a3cf3cbc86d283cf35e3/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/c88c2bf16497a3cf3cbc86d283cf35e3/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.anshwadhwa.detro.go.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.anshwadhwa.detro.go.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

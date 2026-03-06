@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.anshwadhwa.detro.go"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:5:2-64
+11-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:5:19-61
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:6:2-76
+12-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:6:19-73
+13
+14    <permission
+14-->[androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+15        android:name="com.anshwadhwa.detro.go.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.anshwadhwa.detro.go.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:7:2-60:16
+21        android:allowBackup="true"
+21-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:8:3-29
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.13.0] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/4ac29dcbba60c3d468c6265393b35c43/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:9:3-37
+26        android:label="@string/app_name"
+26-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:10:3-35
+27        android:requestLegacyExternalStorage="true"
+27-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:11:3-46
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme"
+29-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:13:3-34
+30        android:usesCleartextTraffic="true" >
+30-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:12:3-38
+31        <activity
+31-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:14:3-25:14
+32            android:name="com.anshwadhwa.detro.go.MainActivity"
+32-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:15:4-32
+33            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+33-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:16:4-97
+34            android:exported="true"
+34-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:20:4-27
+35            android:hardwareAccelerated="true"
+35-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:17:4-38
+36            android:screenOrientation="portrait"
+36-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:19:4-40
+37            android:supportsPictureInPicture="true" >
+37-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:18:4-43
+38            <intent-filter>
+38-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:21:4-24:20
+39                <action android:name="android.intent.action.MAIN" />
+39-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:22:5-57
+39-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:22:13-54
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:23:5-65
+41-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:23:15-62
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:26:3-31:43
+45            android:name="com.anshwadhwa.detro.go.HomeActivity"
+45-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:27:4-32
+46            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+46-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:28:4-97
+47            android:hardwareAccelerated="true"
+47-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:29:4-38
+48            android:screenOrientation="portrait"
+48-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:31:4-40
+49            android:supportsPictureInPicture="true" />
+49-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:30:4-43
+50        <activity
+50-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:32:3-36:46
+51            android:name="com.anshwadhwa.detro.go.MetroroutepgActivity"
+51-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:33:4-40
+52            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+52-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:34:4-97
+53            android:hardwareAccelerated="true"
+53-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:35:4-38
+54            android:supportsPictureInPicture="true" />
+54-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:36:4-43
+55        <activity
+55-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:37:3-41:46
+56            android:name="com.anshwadhwa.detro.go.AboutActivity"
+56-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:38:4-33
+57            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+57-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:39:4-97
+58            android:hardwareAccelerated="true"
+58-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:40:4-38
+59            android:supportsPictureInPicture="true" />
+59-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:41:4-43
+60        <activity
+60-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:42:3-45:52
+61            android:name="com.anshwadhwa.detro.go.DebugActivity"
+61-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:43:4-33
+62            android:screenOrientation="portrait"
+62-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:44:4-40
+63            android:theme="@style/AppTheme.DebugActivity" />
+63-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:45:4-49
+64
+65        <provider
+65-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:46:3-56:14
+66            android:name="androidx.startup.InitializationProvider"
+66-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:47:4-58
+67            android:authorities="com.anshwadhwa.detro.go.androidx-startup"
+67-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:48:4-66
+68            android:exported="false" >
+68-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:49:4-28
+69            <meta-data
+69-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:50:4-52:40
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:51:5-66
+71                android:value="androidx.startup" />
+71-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:52:5-37
+72            <meta-data
+72-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:53:4-55:40
+73                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+73-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:54:5-63
+74                android:value="androidx.startup" />
+74-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:55:5-37
+75            <meta-data
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+76                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+77                android:value="androidx.startup" />
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+78        </provider>
+79
+80        <uses-library
+80-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:57:3-59:31
+81            android:name="org.apache.http.legacy"
+81-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:58:4-41
+82            android:required="false" />
+82-->/home/punchoneman/Downloads/DetroGo/app/src/main/AndroidManifest.xml:59:4-28
+83
+84        <receiver
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+85            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+86            android:directBootAware="false"
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+87            android:enabled="true"
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+88            android:exported="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+89            android:permission="android.permission.DUMP" >
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+91                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+94                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+97                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+100                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/punchoneman/.gradle/caches/9.0-milestone-1/transforms/d8d037397970a0c5ae30e5378dc4561d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+101            </intent-filter>
+102        </receiver>
+103    </application>
+104
+105</manifest>

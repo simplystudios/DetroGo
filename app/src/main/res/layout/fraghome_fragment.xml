@@ -1,0 +1,280 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<androidx.core.widget.NestedScrollView
+		android:id="@+id/vscroll1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+		<LinearLayout
+			android:id="@+id/linear1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+			<LinearLayout
+				android:id="@+id/head"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+				<LinearLayout
+					android:id="@+id/linear15"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_margin="5dp"
+					android:orientation="vertical">
+					<LinearLayout
+						android:id="@+id/linear139"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:gravity="center_vertical"
+						android:orientation="horizontal">
+						<LinearLayout
+							android:id="@+id/linear153"
+							android:layout_width="8dp"
+							android:layout_height="match_parent"
+							android:padding="8dp"
+							android:orientation="vertical" />
+						<ImageView
+							android:id="@+id/imageview4"
+							android:layout_width="25dp"
+							android:layout_height="wrap_content"
+							android:src="@drawable/icon_help_round"
+							android:scaleType="fitCenter" />
+						<LinearLayout
+							android:id="@+id/linear147"
+							android:layout_width="match_parent"
+							android:layout_height="wrap_content"
+							android:padding="8dp"
+							android:gravity="center_horizontal|center_vertical"
+							android:orientation="horizontal"
+							android:layout_weight="1">
+
+                            <SearchView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent" />
+                        </LinearLayout>
+						<ImageView
+							android:id="@+id/imageview3"
+							android:layout_width="25dp"
+							android:layout_height="wrap_content"
+							android:src="@drawable/icon_settings"
+							android:scaleType="fitCenter" />
+						<LinearLayout
+							android:id="@+id/linear145"
+							android:layout_width="8dp"
+							android:layout_height="match_parent"
+							android:padding="8dp"
+							android:orientation="vertical" />
+					</LinearLayout>
+					<LinearLayout
+						android:id="@+id/linear143"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:padding="12dp"
+						android:orientation="vertical">
+						<LinearLayout
+							android:id="@+id/linear151"
+							android:layout_width="match_parent"
+							android:layout_height="wrap_content"
+							android:padding="8dp"
+							android:orientation="horizontal" />
+
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/cardview1"
+                            style="@style/Widget.Material3.CardView.Elevated"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:cardCornerRadius="28dp"
+                            app:cardElevation="2dp"
+                            app:cardUseCompatPadding="false"
+                            app:contentPadding="20dp">
+
+                            <LinearLayout
+                                android:id="@+id/linear31"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:id="@+id/linear32"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <LinearLayout
+                                        android:id="@+id/linear122"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="vertical">
+
+                                        <LinearLayout
+                                            android:id="@+id/linear124"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:orientation="vertical"
+                                            android:padding="5dp">
+
+                                            <LinearLayout
+                                                android:id="@+id/linear148"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="wrap_content"
+                                                android:orientation="horizontal"
+                                                android:padding="8dp" />
+
+                                            <TextView
+                                                android:id="@+id/textview10"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:padding="5dp"
+                                                android:text="Where are you going\?"
+                                                android:textColor="?colorOnSurfaceVariant"
+                                                android:textSize="36sp" />
+
+                                            <TextView
+                                                android:id="@+id/textview14"
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:padding="8dp"
+                                                android:text="Start Your Journey Below"
+                                                android:textSize="17sp" />
+                                        </LinearLayout>
+                                    </LinearLayout>
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/linear44"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical"
+                                    android:padding="8dp">
+
+                                    <com.google.android.material.textfield.TextInputLayout
+                                        android:id="@+id/textinputlayout4"
+                                        style="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:hint="From"
+                                        android:padding="5dp"
+                                        app:boxCornerRadiusBottomEnd="14dp"
+                                        app:boxCornerRadiusBottomStart="14dp"
+                                        app:boxCornerRadiusTopEnd="14dp"
+                                        app:boxCornerRadiusTopStart="14dp"
+                                        app:endIconMode="dropdown_menu">
+
+                                        <AutoCompleteTextView
+                                            android:id="@+id/autocomplete1"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="50dp"
+                                            android:padding="8dp"
+                                            android:textSize="12sp"
+                                            app:simpleItems="@array/stations_list" />
+                                    </com.google.android.material.textfield.TextInputLayout>
+
+                                    <LinearLayout
+                                        android:id="@+id/linear137"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="horizontal"
+                                        android:padding="8dp" />
+
+                                    <com.google.android.material.textfield.TextInputLayout
+                                        android:id="@+id/textinputlayout5"
+                                        style="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:hint="To"
+                                        android:padding="5dp"
+                                        app:boxCornerRadiusBottomEnd="14dp"
+                                        app:boxCornerRadiusBottomStart="14dp"
+                                        app:boxCornerRadiusTopEnd="14dp"
+                                        app:boxCornerRadiusTopStart="14dp"
+                                        app:endIconMode="dropdown_menu">
+
+                                        <AutoCompleteTextView
+                                            android:id="@+id/autocomplete3"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="50dp"
+                                            android:padding="8dp"
+                                            android:textSize="12sp"
+                                            app:simpleItems="@array/stations_list" />
+                                    </com.google.android.material.textfield.TextInputLayout>
+
+                                    <LinearLayout
+                                        android:id="@+id/linear49"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:orientation="horizontal"
+                                        android:padding="8dp" />
+
+                                    <LinearLayout
+                                        android:id="@+id/linear138"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:orientation="horizontal"
+                                        android:padding="8dp">
+
+                                        <com.google.android.material.button.MaterialButton
+                                            android:id="@+id/button1"
+                                            style="@style/Widget.Material3.Button"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="60dp"
+                                            android:padding="8dp"
+                                            android:text="Search"
+                                            android:textSize="12sp" />
+                                    </LinearLayout>
+                                </LinearLayout>
+                            </LinearLayout>
+                        </com.google.android.material.card.MaterialCardView>
+						<LinearLayout
+							android:id="@+id/linear152"
+							android:layout_width="match_parent"
+							android:layout_height="wrap_content"
+							android:padding="8dp"
+							android:orientation="horizontal" />
+					</LinearLayout>
+				</LinearLayout>
+			</LinearLayout>
+			<LinearLayout
+				android:id="@+id/linear134"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_vertical"
+				android:orientation="horizontal">
+				<TextView
+					android:id="@+id/textview12"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:text="Recent Trips"
+					android:textSize="17sp" />
+				<LinearLayout
+					android:id="@+id/linear144"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:orientation="horizontal"
+					android:layout_weight="1" />
+				<TextView
+					android:id="@+id/textview13"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:text="See More"
+					android:textSize="12sp"
+					android:textColor="?colorOnSurface" />
+			</LinearLayout>
+			<androidx.recyclerview.widget.RecyclerView
+				android:id="@+id/recyclerview1"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="12dp"
+				tools:listitem="@layout/ggt" />
+		</LinearLayout>
+	</androidx.core.widget.NestedScrollView>
+</LinearLayout>
