@@ -1,4 +1,4 @@
-<h3 align="center">
+9<h3 align="center">
   <div style="display:flex; justify-content:center;">
     <img style="margin:0;" height="100" alt="Detro Logo Part 1" src="https://github.com/user-attachments/assets/35ca7d87-ce44-4d32-9e2e-1052cb9b0e5b"><img style="margin:0;" height="100" alt="Detro Logo Part 2" src="https://github.com/user-attachments/assets/dcc7a29d-ad8e-48da-ab81-8eae01114a98">
   </div>
@@ -37,7 +37,7 @@
   <img width="23%" alt="Map Light" src="https://github.com/user-attachments/assets/eaa00263-a089-4217-8f8e-ecfee011aa5c" />
   <img width="23%" alt="Search Light" src="https://github.com/user-attachments/assets/09c7967f-c84a-4712-8ea7-9456518633ec" />
   <img width="23%" alt="Detail Light" src="https://github.com/user-attachments/assets/8c6b9cbe-6884-4ede-93e2-d7fe116bb705" />
-  <img width="23%" alt="Settings Light" src="https://github.com/user-attachments/assets/223d04ac-ce20-451b-8721-6ef279ba929b" />
+  <img width="23%" alt="Settings Light" src="https://i.ibb.co/4R68fVJt/Screenshot-20260308-103844.png" />
 </p>
 
 ### Live Preview
