@@ -11,7 +11,7 @@
   
 </p>
 
-<p align='center'>DetroGo is a high-performance transit utility for the Delhi-NCR metro network, Made in Java. By implementing Dijkstra’s pathfinding, it provides lightning-fast route optimization across all active lines. Designed strictly under Material 3 guidelines, the app features an interactive vector map, dynamic theming, and local persistence for route history via Shared Preferences.</p>
+<p align='center'>DetroGo is a high-performance transit utility for the Delhi-NCR metro network, Made in Java. By implementing BFS pathfinding, it provides shortest routes across all active lines. Designed strictly under Material 3 guidelines, the app features an interactive vector map, dynamic theming, and local persistence for route history via Shared Preferences.</p>
 
 ## 🚀 Features
 
