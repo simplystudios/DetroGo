@@ -1,19 +1,24 @@
-<h3 align="center">
-  <div style="display:flex; justify-content:center;">
-    <img style="margin:0;" height="100" alt="Detro Logo Part 1" src="https://github.com/user-attachments/assets/35ca7d87-ce44-4d32-9e2e-1052cb9b0e5b"><img style="margin:0;" height="100" alt="Detro Logo Part 2" src="https://github.com/user-attachments/assets/dcc7a29d-ad8e-48da-ab81-8eae01114a98">
-  </div>
-</h3>
-<hr/>
-<p align="center">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/simplystudios/DetroGo">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simplystudios/DetroGo">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/simplystudios/DetroGo?style=flat">
-  
-</p>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/33d6f723-8ad1-4488-8026-68c630045c6b"
+        title="Detro" alt="DetroGO logo" width="120" />
+   <h1>DetroGO</h1>
+  <p>
+        A Material 3 transit app for Delhi-NCR.
+    <br>
+    Minimal, Clean and Native Experience.
+    <br>
+    built for everyday riders by everyday riders
+   </p>
 
-<p align='center'>DetroGo is a high-performance transit utility for the Delhi-NCR metro network, Made in Java. By implementing BFS pathfinding, it provides shortest routes across all active lines. Designed strictly under Material 3 guidelines, the app features an interactive vector map, dynamic theming, and local persistence for route history via Shared Preferences.</p>
+<a href="https://detrogo.vercel.app/">detrogo.vercel.app</a>
+</div>
 
-## 🚀 Features
+<br/>
+
+
+
+
+## Features
 
 - [x] **Intelligent Pathfinding:** Custom routing engine utilizing Dijkstra's Algorithm.
 - [x] **Interactive Map:** High-contrast dark mode map with vibrant, color-coded lines.
