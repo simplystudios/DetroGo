@@ -16,6 +16,10 @@
 <br/>
 
 
+> [!IMPORTANT]
+> I am rewriting of DetroGo in React Native to offer multi platform support and easier management for the javascript backend of current detrogo app which is hard in Java hence the migration also i made the first prototype in Java using Sketchware which is no longer supported and migrating to Android Studio Invovles a big learning curve and powerfull hardware which i cannot afford currently hence DetroGo's Native App will stay depricated till i can fully work on it.
+
+
 
 
 ## Features
